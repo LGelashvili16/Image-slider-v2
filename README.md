@@ -1,0 +1,1 @@
+[Slider_loop](https://lgellson.github.io/Image-slider-v2/)
